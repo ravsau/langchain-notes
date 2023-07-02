@@ -18,6 +18,6 @@ Langchain Doc: https://python.langchain.com/docs/modules/model_io/models/llms/in
 4) Download a local LLaMa( or LLaMa compatible model) from https://gpt4all.io/index.html
 5) Change the `model_path` in the `llama.py` file to reference the model file you you downloaded in previous step. 
 6) Run the `llama.py` file( in this folder) 
-   - ```python llama.py```
+   - ```python llama_langchain.py```
 
   
