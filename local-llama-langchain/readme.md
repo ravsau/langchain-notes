@@ -16,7 +16,7 @@ Langchain Doc: https://python.langchain.com/docs/modules/model_io/models/llms/in
    -  OR for GPU inference `CMAKE_ARGS="-DLLAMA_CUBLAS=on" FORCE_CMAKE=1 pip install llama-cpp-python`
 
 4) Download a local LLaMa( or LLaMa compatible model) from https://gpt4all.io/index.html
-5) Change the `model_path` in the `llama.py` file to reference the model file you you downloaded in previous step. 
+5) Change the `model_path` in the `llama_langchain.py` file to reference the model file you you downloaded in previous step. 
 6) Run the `llama.py` file( in this folder) 
    - ```python llama_langchain.py```
 
