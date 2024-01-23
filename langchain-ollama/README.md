@@ -3,7 +3,13 @@
 
 Tutorial I followed: https://python.langchain.com/docs/integrations/llms/ollama
 
-- Step 1: Install Langchain 
+
+## Steps:
+
+- Step 1: Install Langchain
+    ```
+    pip install langchain
+    ```
 - Step 2: Download Ollama and a LLM model to use
   - Download from:  https://ollama.ai/
   - Github repo: https://github.com/jmorganca/ollama
